@@ -1,0 +1,14 @@
+{
+  "name": "4-lines-node-rest-service",
+  "version": "1.0.0",
+  "description": "Simple node rest service in 4 lines",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Marcelo Canales",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
