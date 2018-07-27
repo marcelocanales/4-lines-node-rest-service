@@ -1,6 +1,6 @@
 # 4 Lines Node Rest Service
 
-Simple node rest service in 4 lines
+Simple node/express rest service in 4 lines
 
 ## Run
 
